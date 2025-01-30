@@ -6,7 +6,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=vianismee&locale=en&mode=daily&theme=nightowl&hide_border=true&border_radius=10&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=vianismee&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=nightowl&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=vianismee&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
 </div>
 
 ###
@@ -32,6 +32,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/vianismee/vianismee/output/snake.svg" alt="Snake animation" />
 
